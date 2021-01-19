@@ -1,0 +1,22 @@
+.login {
+  background: #fefefe;
+  flex: 1;
+  display: grid;
+  place-items: center;
+}
+.login-Container {
+  padding: 100px;
+  background: white;
+  text-align: center;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2), 0 0.1px;
+}
+.login img {
+  object-fit: contain;
+  height: 100px;
+  margin-bottom: 10px;
+}
+.login-Container button {
+  margin-top: 50px;
+  text-transform: inherit !important;
+  background: #0a8d48 !important;
+}
